@@ -95,9 +95,9 @@ prefab use "<< path to yourMergeTool.exe >>" "%l" "%r" "%b" "%d"
 After you finished the previous steps, you just have to **use this repository as a template for each Unity project you want to start**. It's already configured with everything you need (Git LFS, .gitignore files, .gitattributes file, Unity Editor setup and a folder for your project).
 
 1. Use this repository as a template (click on the green "Use this template" button on [this repository's page](https://github.com/ThiagoRangel7/unity-git-template)).\
-!["Use this template" button](/Tutorial/Image5.png)
-
+!["Use this template" button](/Tutorial/Image5.png)\
 This will copy the folder structure and files of this repository to a new repository of your own.
+
 2. Open your newly copied repository's page on GitHub and click on the green "Clone or download" button. Copy the link on the popup window.\
 !["Clone or download" button](/Tutorial/Image6.png)
 
